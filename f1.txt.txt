@@ -1,1 +1,5 @@
-Suyog
+For new users, using the terminal view can seem a bit complicated. Don't worry! We will keep it really simple, and learning this way gives you a good grasp of how Git works.
+
+In the code above, you can see commands (input) and output.
+
+Lines like this are commands we input:Suyog
